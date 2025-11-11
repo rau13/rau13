@@ -40,17 +40,6 @@ I love transforming business goals into elegant, maintainable, and high-performi
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🏈 FootballTeamsAppMVVM](https://github.com/rau13/FootballTeamsAppMVVM) | MVVM architecture Kotlin app | Kotlin, Android |
-| [📊 AnalyticsApp](https://github.com/rau13/AnalyticsApp) | Data analytics for LGK company | Kotlin, Firebase |
-| [📱 rapl_club](https://github.com/rau13/rapl_club) | Dart-based club app | Flutter, Dart |
-| [🔐 vvault_redesign](https://github.com/rau13/vvault_redesign) | Security-focused redesign | Flutter, Clean Arch |
-
----
-
 ### 🏆 Certifications
 - **Careerifly: Career Classes**
 
