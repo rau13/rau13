@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-I’m a passionate **Flutter Developer** with 3+ years of experience creating apps from MVPs to enterprise-scale products.  
+I’m a passionate **Flutter Developer** with 4+ years of experience creating apps from MVPs to enterprise-scale products.  
 I specialize in **clean architecture**, **performance**, and **scalable mobile design**.  
 
 I’ve led cross-functional teams, mentored junior developers, and delivered projects used by thousands of users worldwide.  
